@@ -19,3 +19,7 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=iamsenanur&show_icons=true&locale=en&layout=compact" alt="iamsenanur" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=iamsenanur&" alt="iamsenanur" /></p>
+
+
+
+![snake gif](https://github.com/iamsenanur/iamsenanur/blob/output/github-contribution-grid-snake.gif)
