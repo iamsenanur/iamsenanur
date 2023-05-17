@@ -19,7 +19,9 @@ jobs:
           node-version: '16'
 
       - name: Generate the snake
-        run: npx -p node@16 -p snake-gif-generator@1.4.0 generate-snake -u mishmanners -o dist
+        run: |
+          npm install -g snake-gif-generator
+          snake-gif-generator -u mishmanners -o dist
 
       - name: Commit and push changes
         run: |
