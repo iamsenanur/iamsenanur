@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **vuejs**
 
-- 📝 I regularly write articles on [https://medium.com/@senairizz](https://medium.com/@senairizz)
+- 📝 I write articles on [https://medium.com/@senairizz](https://medium.com/@senairizz)
 
 - 📫 How to reach me **senairizz@gmail.com**
 
