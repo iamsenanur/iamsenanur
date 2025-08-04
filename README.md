@@ -1,7 +1,8 @@
-## Hi, I 'm Sena ✨
-🎓 I'm a recent Computer Engineering graduate<br/>
-💻 Passionate about web technologies and eager to grow as a Full Stack Developer<br/>
-🪄 Always learning, always building<br/>
+## Hi, I'm Sena ✨  
+🎓 22 y/o & a fresh Computer Engineering graduate  
+💻 Passionate about web technologies and eager to grow as a Full Stack Developer  
+🪄 Always learning, always building
+
 
 
 
