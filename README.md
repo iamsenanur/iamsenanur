@@ -1,8 +1,7 @@
 ## Hi, I'm Sena ✨  
 🎓 22 y/o & a fresh Computer Engineering graduate  
 💻 I’ve gained solid full-stack development experience with .NET, React, SQL, and Python during my internships  
-🧪 Along the way, I discovered my real passion in Software Test Engineering – I worked on manual testing, wrote QA reports, and got hands-on experience with real processes  
-🐧 I also had the chance to work on Linux systems, which helped me improve my technical versatility  
+🧪 Along the way, I discovered my real passion in Software Test Engineering – I worked on manual testing, wrote QA reports, and got hands-on experience with real processes   
 🚀 I’m a fast learner, always motivated, and excited to grow further in Full Stack Development and Test Automation  
 
 # 💻 Tech Stack:
