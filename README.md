@@ -1,6 +1,6 @@
 ## Hi, I'm Sena ✨  
 🎓 22 y/o & a fresh Computer Engineering graduate  
-💻 I’ve gained solid full-stack development experience with .NET, Node.js, React, SQL, and Python during my internships  
+💻 I’ve gained solid full-stack development experience with JavaScript, .NET, Node.js, React, SQL, and Python during my internships  
 🚀 I’m a fast learner, always motivated, and excited to grow further in Full Stack Development and Test Automation  
 
 # 💻 Tech Stack:
